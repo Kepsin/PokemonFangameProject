@@ -73,3 +73,5 @@
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,Battle victory leader,,Male,,
 71,CHAMPION,Champion,100,Battle Elite,Battle victory leader,,Male,,
 72,PROFAID,Prof. Aid,4,,,,Male,,
+87,HGCAMPER,Camper,16,,,,Male,,
+90,DPPICNICKER,Picnicker,16,,,,Female,,

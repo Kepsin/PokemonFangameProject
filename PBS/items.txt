@@ -786,3 +786,4 @@
 1301,CHIPPEDPOT,Chipped Pot,Chipped Pots,1,1600,"A peculiar teapot that can make a certain species of Pokémon evolve. It's chipped, but tea poured from it is delicious.",1,0,7,
 1302,MYSTICTICKET,Mystic Ticket,Mystic Tickets,8,0,"A ticket required to board the ship to Navel Rock. It glows with a mystic light.",0,0,6,
 1303,DREAMBALL,Dream Ball,Dream Balls,3,1000,"A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.",0,2,4
+1003,DARKSTONE,Dark Stone,Dark Stones,8,0,"A stone that your father has passed down to you. It has a strange marking on it.",0,0,6,

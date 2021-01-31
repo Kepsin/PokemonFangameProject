@@ -454,7 +454,7 @@ Land
     RELICANTH,16,19
     RELICANTH,16,19
 #-------------------------------
-075 # Tiall Region
+075
 25,10,10
 Land
     RATTATA_1,11,14
@@ -469,3 +469,38 @@ Land
     CUBONE,11,14
     CUBONE,11,14
     CUBONE,11,14
+#-------------------------------
+083 # Road 1
+25,10,10
+Land
+    SENTRET,2,4
+    PIDGEY,2,4
+    HOOTHOOT,2,4
+    RATTATA,2,4
+    ZIGZAGOON,2,4
+    MEOWTH,2,4
+    BONSLY,5
+    BONSLY,5
+    PHANPY,5
+    PHANPY,2,5
+    SNIVY,2,5
+    SNIVY,2,5
+Water
+    TENTACOOL,14,19
+    MANTYKE,15,16
+    REMORAID,14,16
+    REMORAID,14,16
+    REMORAID,14,16
+OldRod
+    MAGIKARP,5,8
+    TYMPOLE,5,8
+GoodRod
+    MAGIKARP,15,25
+    TYMPOLE,15,25
+    CORPHISH,15,20
+SuperRod
+    MAGIKARP,30,35
+    TYMPOLE,30,35
+    CORPHISH,30,32
+    PALPITOAD,34,35
+	CORPHISH,33,34

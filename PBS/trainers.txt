@@ -1,9 +1,13 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[CAMPER,Liam]
+[HGCAMPER,Jacob]
 LoseText = "A very good battle, indeed!"
-Pokemon = DIGLETT,10
-Pokemon = BONSLY,11
+Pokemon = SENTRET,5
+Pokemon = PIDGEY,3
+#-------------------------------
+[DPPICNICKER,Sasha]
+LoseText = "It's ok my pokemon, we will get it next time!"
+Pokemon = PHANPY,6
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
