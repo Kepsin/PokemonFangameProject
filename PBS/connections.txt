@@ -40,3 +40,11 @@
 21,East,77,47,West,0
 # Road 1 (83) - Timberland Town (22)
 83,West,0,22,East,76
+# Lake (86) - Timberland Town (22)
+86,West,14,22,East,0
+# Lake (86) - Road 1 (83)
+86,South,0,83,North,0
+# Traveling Stop (75) - Road 1 (83)
+75,West,0,83,East,0
+# Traveling Stop (75) - Lake (86)
+75,North,0,86,South,76

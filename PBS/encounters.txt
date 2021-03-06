@@ -454,7 +454,7 @@ Land
     RELICANTH,16,19
     RELICANTH,16,19
 #-------------------------------
-075
+075 # Traveling Stop
 25,10,10
 Land
     RATTATA_1,11,14
@@ -503,4 +503,4 @@ SuperRod
     TYMPOLE,30,35
     CORPHISH,30,32
     PALPITOAD,34,35
-	CORPHISH,33,34
+    CORPHISH,33,34

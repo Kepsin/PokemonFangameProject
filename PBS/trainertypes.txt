@@ -75,3 +75,4 @@
 72,PROFAID,Prof. Aid,4,,,,Male,,
 87,HGCAMPER,Camper,16,,,,Male,,
 90,DPPICNICKER,Picnicker,16,,,,Female,,
+104,THIEF,Thief,20,,,,Male,,

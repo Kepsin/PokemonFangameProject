@@ -9,10 +9,37 @@ Pokemon = PIDGEY,3
 LoseText = "It's ok my pokemon, we will get it next time!"
 Pokemon = PHANPY,6
 #-------------------------------
+[YOUNGSTER,Jonah]
+LoseText = "I guess my rattata wasn't as strong as I thought..."
+Pokemon = RATTATA,3
+Pokemon = RATTATA,4
+Pokemon = RATTATA,2
+Pokemon = RATTATA,1
+#-------------------------------
+[CAMPER,Ferrow]
+LoseText = "I will succumb to my wounds"
+Pokemon = TYMPOLE,5
+Pokemon = HOOTHOOT,4
+#-------------------------------
+[THIEF,???]
+LoseText = "My crime was a petty one though!"
+Pokemon = HOUNDOUR,8
+Gender = male
+    Ability = 0
+    IV = 20
+	EV = 18
+	Shadow = yes
+	Nature = ADAMANT
+#-------------------------------
+[DPPICNICKER,Suzan]
+LoseText = "It still is a big lake."
+Pokemon = POLIWAG,6
+Pokemon = PIDGEY,4
+#-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = "Very good."
-Pokemon = GEODUDE,12
+Pokemon = RATTATA,5
     Gender = male
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     Ability = 0
