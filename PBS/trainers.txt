@@ -1,25 +1,25 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[HGCAMPER,Jacob]
-LoseText = "A very good battle, indeed!"
-Pokemon = SENTRET,5
-Pokemon = PIDGEY,3
+[YOUNGSTER,John]
+LoseText = "Can't believe I lost to a newbie."
+Pokemon = ZIGZAGOON,4
+Pokemon = STARLY,3
 #-------------------------------
-[DPPICNICKER,Sasha]
-LoseText = "It's ok my pokemon, we will get it next time!"
-Pokemon = PHANPY,6
+[YOUNGSTER,Kyle]
+LoseText = "That jerk is me."
+Pokemon = MURKROW,5
 #-------------------------------
-[YOUNGSTER,Jonah]
-LoseText = "I guess my rattata wasn't as strong as I thought..."
-Pokemon = RATTATA,3
-Pokemon = RATTATA,4
-Pokemon = RATTATA,2
-Pokemon = RATTATA,1
+[OFFICER,Quint]
+LoseText = "Hm, you must be a good guy."
+Pokemon = GROWLITHE,5
 #-------------------------------
-[CAMPER,Ferrow]
-LoseText = "I will succumb to my wounds"
-Pokemon = TYMPOLE,5
-Pokemon = HOOTHOOT,4
+[OFFICER,Egin]
+LoseText = "Hm, you must be a good guy."
+Pokemon = LILLIPUP,5
+#-------------------------------
+[GENTLEMAN,Egor]
+LoseText = "What an exquisite battle that was."
+Pokemon = PURRLOIN,6
 #-------------------------------
 [THIEF,???]
 LoseText = "My crime was a petty one though!"

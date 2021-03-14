@@ -454,23 +454,36 @@ Land
     RELICANTH,16,19
     RELICANTH,16,19
 #-------------------------------
-075 # Traveling Stop
+075 # Road 1
 25,10,10
 Land
-    RATTATA_1,11,14
-    GEODUDE_1,11,14
-    SANDSHREW_1,11,14
-    VULPIX_1,11,14
-    DIGLETT_1,11,14
-    MEOWTH_1,11,14
-    PIKACHU,11,14
-    PIKACHU,11,14
-    CUBONE,11,14
-    CUBONE,11,14
-    CUBONE,11,14
-    CUBONE,11,14
+    ZIGZAGOON,2,5
+    STARLY,2,5
+    SENTRET,2,5
+    HOPPIP,2,5
+    SUNKERN,11,14
+    FLABEBE,2,5
+    DUNSPARCE,4,5
+    DUNSPARCE,4,5
+    CHIKORITA,4,5
+    CHIKORITA,4,5
+    BULBASAUR,4,5
+    BULBASAUR,4,5
+LandNight
+    ZIGZAGOON_1,2,5
+    MURKROW,2,5
+    SENTRET,2,5
+    HOPPIP,2,5
+    PHANTUMP,2,5
+    FLABEBE,2,5
+    DUNSPARCE,4,5
+    DUNSPARCE,4,5
+    CHIKORITA,4,5
+    CHIKORITA,4,5
+    BULBASAUR,4,5
+    BULBASAUR,4,5	
 #-------------------------------
-083 # Road 1
+083
 25,10,10
 Land
     SENTRET,2,4
